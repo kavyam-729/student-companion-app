@@ -1,1 +1,17 @@
-[]
+[
+    {
+        "Username": "",
+        "Password": "",
+        "Subject": [
+            "English",
+            "Hindi",
+            "Physics"
+        ],
+        "Notes": [],
+        "Tasks": {
+            "Daily": [],
+            "Monthly": [],
+            "Weekly": []
+        }
+    }
+]
