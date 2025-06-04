@@ -24,5 +24,3 @@ It helps students manage their *notes* and *tasks* efficiently in one place.
 3. Enjoy your organized student life!
 
 ---
-
-Feel free to customize or expand it if you add new features later!
