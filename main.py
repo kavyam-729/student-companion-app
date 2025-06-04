@@ -64,6 +64,7 @@ def newuserpage():
             if user["Username"] == userid:
                 show_popup("PLEASE SELECT ANOTHER USER ID")
                 newuserpage()
+                break
             else:
                 newuser(userid=userid,password=password,subjects=subejct)
                 show_popup("SUCESSFULLY REGISTERED")
